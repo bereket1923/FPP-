@@ -4,20 +4,7 @@ import java.util.Random;
 import java.util.random.RandomGenerator;
 
 public class QuickEmiQuote {
-//    public QuickEmiQuote() {
-//
-//    public void Principal(){
-//
-//
-//        }
-//    public void Tenure(){
-//
-//        }
-//    public void AnnualInterestRate(){
-//
-//        }
-//
-//    }
+
     public static void main(String[] args) {
 
         //1. randomize input
@@ -51,3 +38,4 @@ public class QuickEmiQuote {
     }
 
 }
+
